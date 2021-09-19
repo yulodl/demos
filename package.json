@@ -1,0 +1,10 @@
+{
+  "name": "demos",
+  "version": "1.0.0",
+  "description": "tools & frameworks samples",
+  "main": "index.js",
+  "repository": "https://github.com/yulodl/demos.git",
+  "author": "xiaodongyu <xiaodongyu@yangqianguan.com>",
+  "license": "MIT",
+  "private": false
+}

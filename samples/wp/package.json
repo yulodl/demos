@@ -1,0 +1,10 @@
+{
+  "name": "wp",
+  "version": "1.0.0",
+  "description": "webpack demo",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.53.0"
+  }
+}
